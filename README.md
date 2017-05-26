@@ -1,3 +1,3 @@
-# f610
+# F610
 
 Fibonacci-N numbers from basic principles
